@@ -1,4 +1,4 @@
-<h1 align="center"> # Github Explorer </h1> 
+<h1 align="center"> 👉 Github Explorer 👈 </h1> 
 
 <div align="center">
   <img src="./github/github-explorer.gif" alt="drop-box" />
