@@ -6,7 +6,7 @@
   <img src="./github/github-explorer.gif" alt="drop-box" />
 </div>
 
-## 🚀 Technologies
+## 🚀 Tecnologias
 - Javascript
 - Typescript
 - ReactJS
