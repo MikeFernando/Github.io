@@ -13,4 +13,4 @@
 - CSS
 - Styled-components
 - Local storage
-- HTML
+
